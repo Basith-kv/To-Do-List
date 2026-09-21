@@ -47,5 +47,5 @@ To-Do-List/
 ├── tasks.json
 └── README.md
 
-# Author
+Author
 Basith K V
